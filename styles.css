@@ -1,0 +1,19 @@
+h1{
+    font-weight: bolder;
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+img{
+    height: auto;
+    width: 400px;
+}
+ul{
+    font-size: large;
+}
+h2{
+    font-weight: bold;
+    color: gray;
+    background-color: blue;
+    font-size: larger;
+}
